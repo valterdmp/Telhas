@@ -3524,6 +3524,12 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 	background-color: #FFF;
 }
 
+#contentc {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
 #content p { line-height: 1.8; }
 
 .content-wrap {
