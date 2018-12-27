@@ -2487,7 +2487,7 @@ body:not(.device-touch) #page-menu nav li a {
 	display: block;
 	content: '';
 	width: 20%;
-	border-bottom: 1px solid #E5E5E5;
+	border-bottom: 1px solid #E6F3EC;
 }
 
 .side-header .center #logo:after { margin: 0 auto; }
